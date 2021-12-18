@@ -1,3 +1,4 @@
 @tailwind base;
+*{outline:none; border: none}
 @tailwind components;
 @tailwind utilities;
