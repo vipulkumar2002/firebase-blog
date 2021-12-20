@@ -8,6 +8,7 @@ const cards = () => {
         <p>Publish : 12/11/2021</p>
         </div>
     )
+    
 }
 
 export default cards
